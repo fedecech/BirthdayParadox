@@ -1,8 +1,8 @@
 # BirthdayParadox
 Simulation to confirm BirthDay paradox
 
-## Folder: BirthdayParadox
+### Folder: BirthdayParadox
 Simulation 
 
-## Folder: BirthParadoxTable
+### Folder: BirthParadoxTable
 Table creator (given max value) + Test class
